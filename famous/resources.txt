@@ -1,0 +1,2 @@
+http://jsfiddle.net/markmarijnissen/t2z4Q/42/
+Sequential layout inside scrollview, scroll to certain point on click
